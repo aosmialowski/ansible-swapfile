@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Andrzej Ośmiałówski
+  description: Ansible role that configures swap file on Ubuntu.
+  license: BSD
+  min_ansible_version: 1.8
+  platforms:
+    - name: Ubuntu
+      versions:
+        - lucid
+        - maverick
+        - trusty
+  categories:
+    - system
+dependencies: []
